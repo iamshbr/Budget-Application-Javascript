@@ -1,0 +1,2 @@
+# Budget-Application-Javascript
+THIS APPLICATION IS FOR PEOPLE WHO MAKE MONTHLY BUDGETS. 
